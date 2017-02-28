@@ -1,0 +1,28 @@
+.internship {
+    background-color: #F9FAFC;
+    padding: 50px 0 70px 0;
+}
+
+.internship h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.internship .icon {
+    height: 75px;
+    width: 75px;
+    background-repeat: no-repeat;;
+    background-size: 100%;
+}
+
+.part-time-icon {
+    background-image: url(/public/images/part-time-icon.png);
+}
+
+.get-paid-icon {
+    background-image: url(/public/images/get-paid-icon.png);
+}
+
+.cert-icon {
+    background-image: url(/public/images/cert-icon.png);
+}

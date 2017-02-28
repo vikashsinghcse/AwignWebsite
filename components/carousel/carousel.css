@@ -1,0 +1,46 @@
+.header-carousel .carousel-div {
+    width: 100%;
+    height: 520px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#slide1 {
+    background-image: url(/public/images/slide1.jpg);
+}
+
+#slide2 {
+    background-image: url(/public/images/slide3.jpg);
+}
+
+#slide3 {
+    background-image: url(/public/images/slide5.jpg);
+}
+
+.header-carousel .carousel-indicators {
+    display: none;
+}
+
+.header-carousel .carousel-caption {
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 185px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.header-carousel .carousel-caption h3 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-carousel .carousel-caption p {
+    font-size: 16px;
+}
+
+.header-carousel .carousel-caption button {
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}

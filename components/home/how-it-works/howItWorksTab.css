@@ -1,0 +1,13 @@
+.how-it-works-icon {
+    background-image: url('/public/images/how-it-works-icon.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50%;
+    height: 250px;
+    float: right;
+    margin-right: 50px;
+}
+
+.register-text {
+    margin-bottom: 50px;
+}

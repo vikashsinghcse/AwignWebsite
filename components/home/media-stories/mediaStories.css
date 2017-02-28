@@ -1,0 +1,40 @@
+.media-stories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0;
+    background-color: #F9FAFC;
+}
+
+.media-stories-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.forbes-icon, .tc-icon, .ys-icon, .th-icon {
+    height: 75px;
+    width: 80px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.forbes-icon {
+    background-image: url(/public/images/forbes.png);
+}
+
+.tc-icon {
+    background-image: url(/public/images/tc.png);
+    width: 150px;
+}
+
+.ys-icon {
+    background-image: url(/public/images/ys.png);
+}
+
+.th-icon {
+    background-image: url(/public/images/th.png);
+}

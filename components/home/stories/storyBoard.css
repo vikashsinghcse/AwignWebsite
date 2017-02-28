@@ -1,0 +1,9 @@
+.story-board {
+    background-color: #FFF;
+    height: 300px;
+    width: 30%;
+}
+
+.story-board blockquote {
+    border: none;
+}
