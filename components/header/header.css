@@ -1,19 +1,84 @@
-nav {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    align-content: center;
-    font-size: 32px;
+.app-header .container {
+    width: 100%;
+    background-color: #1F2D3D;
+    padding-right: 0;
 }
 
-.nav {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    align-content: space-around;
-    font-size: 32px;
+.app-header .navbar-header {
+    border-right: 1px solid #3C4858;
+    padding: 22px 35px;
+    padding-bottom: 0px;
 }
 
-.nav li {
-    padding: 0 20px;
+.navbar {
+    border-radius: 0;
+    border: 0;
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    z-index: 999999;
+    font-size: 14px;
+    width: 100%;
+}
+
+.navbar-nav > li  {
+    border-left: 1px solid #3C4858;
+}
+
+.navbar-nav > li:first-child, .navbar-nav > li:last-child {
+    border: none;
+}
+    
+.navbar-brand {
+    background-image: url(/public/images/logo.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 125px;
+    background-size: 100%;
+}
+
+.app-header .navbar-default .navbar-nav > li > a {
+    color: #C0CCDA;
+    padding: 28px 36px;
+    line-height: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #C0CCDA;
+    background-color: #273444;
+}
+
+.app-header .navbar-default .navbar-nav > .link-business > a {
+    color: orange;
+}
+
+.app-header .navbar-default .navbar-nav > .link-signin > a, .app-header .navbar-default .navbar-nav > .link-register > a {
+    color: #F9FAFC;
+}
+
+.link-signin {
+    background-color: #3C4858;
+}
+
+.link-register {
+    background-color: #265EFF;
+}
+
+.btn-register {
+    background-color: #265EFF;
+    color: #F9FAFC;
+    border: none;
+    text-transform: uppercase;
+    padding: 10px 25px;
+}
+
+.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
 }
