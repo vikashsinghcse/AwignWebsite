@@ -6,6 +6,7 @@
   background-color: #3C4858;
   color: #FFF;
   padding-top: 60px;
+  font-family: 'Averta Light';
 }
 
 .footer-content {
@@ -17,7 +18,7 @@
 }
 
 .footer-content p {
-    line-height: 1.5;
+    line-height: 2;
     color: #8492A6;
 }
 

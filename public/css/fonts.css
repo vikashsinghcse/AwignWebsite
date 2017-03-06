@@ -1,0 +1,112 @@
+/* BEGIN Black */
+@font-face {
+  font-family: 'Averta Black';
+  src: url('../fonts/Averta-Black.otf');
+}
+/* END Black */
+
+/* BEGIN Black Italic */
+@font-face {
+  font-family: 'Averta Black Italic';
+  src: url('../fonts/Averta-BlackItalic.otf');
+}
+/* END Black Italic */
+
+/* BEGIN Bold */
+@font-face {
+  font-family: 'Averta Bold';
+  src: url('../fonts/Averta-Bold.otf');
+}
+/* END Bold */
+
+/* BEGIN Bold Italic */
+@font-face {
+  font-family: 'Averta Bold Italic';
+  src: url('../fonts/Averta-BoldItalic.otf');
+}
+/* END Bold Italic */
+
+/* BEGIN Extra Bold */
+@font-face {
+  font-family: 'Averta Extra Bold';
+  src: url('../fonts/Averta-ExtraBold.otf');
+}
+/* END Extra Bold */
+
+/* BEGIN Extra Bold Italic */
+@font-face {
+  font-family: 'Averta Extra Bold Italic';
+  src: url('../fonts/Averta-ExtraBoldItalic.otf');
+}
+/* END Extra Bold Italic */
+
+/* BEGIN Thin */
+@font-face {
+  font-family: 'Averta Thin';
+  src: url('../fonts/Averta-Thin.otf');
+}
+/* END Thin */
+
+/* BEGIN Thin Italic */
+@font-face {
+  font-family: 'Averta Thin Italic';
+  src: url('../fonts/Averta-ThinItalic.otf');
+}
+/* END Thin Italic */
+
+/* BEGIN Extra Thin */
+@font-face {
+  font-family: 'Averta Extra Thin';
+  src: url('../fonts/Averta-Extrathin.otf');
+}
+/* END Extra Thin */
+
+/* BEGIN Extra Thin Italic */
+@font-face {
+  font-family: 'Averta Extra Thin Italic';
+  src: url('../fonts/Averta-ExtrathinItalic.otf');
+}
+/* END Extra Thin Italic */
+
+/* BEGIN Semi Bold */
+@font-face {
+  font-family: 'Averta Semi Bold';
+  src: url('../fonts/Averta-Semibold.otf');
+}
+/* END Semi Bold */
+
+/* BEGIN Semi Bold Italic */
+@font-face {
+  font-family: 'Averta Semi Bold Italic';
+  src: url('../fonts/Averta-SemiboldItalic.otf');
+}
+/* END Semi Bold Italic */
+
+/* BEGIN Light */
+@font-face {
+  font-family: 'Averta Light';
+  src: url('../fonts/Averta-Light.otf');
+}
+/* END Light */
+
+/* BEGIN Light Italic */
+@font-face {
+  font-family: 'Averta Light Italic';
+  src: url('../fonts/Averta-LightItalic.otf');
+}
+/* END Light Italic */
+
+/* BEGIN Regular */
+@font-face {
+  font-family: 'Averta Regular';
+  src: url('../fonts/Averta-Regular.otf');
+}
+/* END Regular */
+
+/* BEGIN Regular Italic */
+@font-face {
+  font-family: 'Averta Regular Italic';
+  src: url('../fonts/Averta-RegularItalic.otf');
+}
+/* END Regular Italic */
+

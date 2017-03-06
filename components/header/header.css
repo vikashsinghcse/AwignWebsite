@@ -2,6 +2,7 @@
     width: 100%;
     background-color: #1F2D3D;
     padding-right: 0;
+    font-family: 'Averta Light';
 }
 
 .app-header .navbar-header {
@@ -45,6 +46,13 @@
     text-transform: uppercase;
 }
 
+.app-header .navbar-default .navbar-nav > li.link-help > a {
+    padding-top: 15px;
+    div {
+        font-size: 10px;
+    }
+}
+
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover,
@@ -55,11 +63,13 @@
 }
 
 .app-header .navbar-default .navbar-nav > .link-business > a {
-    color: orange;
+    color: #F07E0C;
+    font-family: 'Averta Bold';
 }
 
 .app-header .navbar-default .navbar-nav > .link-signin > a, .app-header .navbar-default .navbar-nav > .link-register > a {
     color: #F9FAFC;
+    font-family: 'Averta Bold';
 }
 
 .link-signin {
@@ -70,12 +80,16 @@
     background-color: #265EFF;
 }
 
+.app-header .navbar-default .navbar-nav > li.link-register > a {
+    padding: 28px 39px;
+}
+
 .btn-register {
     background-color: #265EFF;
     color: #F9FAFC;
     border: none;
     text-transform: uppercase;
-    padding: 10px 25px;
+    padding: 10px 35px;
 }
 
 .navbar-collapse {

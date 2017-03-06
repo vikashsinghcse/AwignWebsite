@@ -23,7 +23,7 @@ export default class Header extends React.Component {
                 <NavItem eventKey={4} href="#">How it works</NavItem>
                 <NavItem eventKey={3} href="#">About</NavItem>
                 <NavItem eventKey={6} href="#" className="link-business">For Business</NavItem>
-                <NavItem eventKey={5} href="#">+91 890 400 0342</NavItem>
+                <NavItem eventKey={5} href="#" className="link-help"><div>Need Help?</div><span>+91 890 400 0342</span></NavItem>
                 <NavItem eventKey={7} href="#" className="link-signin">Sign In</NavItem>
                 <NavItem eventKey={8} href="#" className="link-register">Register</NavItem>
               </Nav>
